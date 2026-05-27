@@ -1,0 +1,3 @@
+SELECT count(*)
+FROM ORDERS
+WHERE date = '2026-02-01'
